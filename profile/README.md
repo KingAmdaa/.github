@@ -45,10 +45,8 @@
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html--v1.png"/></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/ruby.png"/></a>
-     <br>
+<br>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bitcoin"/></a>
 <a href="https://youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/notepad-plus-plus"/></a>
 <a href="https://freenom.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
