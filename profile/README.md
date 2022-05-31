@@ -37,6 +37,7 @@
 
 <p align ="left">
 <a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+<a href="https://portal.azure.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure.png"/></a>
 <a href="https://cloud.google.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
 <a href="https://heroku.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
@@ -44,7 +45,18 @@
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/html--v1.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/ruby.png"/></a>
+     <br>
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bitcoin"/></a>
+<a href="https://youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/notepad-plus-plus"/></a>
+<a href="https://freenom.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/wifi.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/hacking.png"/></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/></a>     
 
 <br><br>                                                           
 ## NOW PLAYING
